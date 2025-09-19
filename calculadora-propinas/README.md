@@ -1,7 +1,7 @@
 # Calculadora de propinas 
 
-## Descrpción
-Programa que calcula, propina e indica cuanto debe pagar cada comensal, y todas las entradas estan validadas.
+## Descripción
+Programa que calcula, propina e indica cuanto debe pagar cada comensal, y si todas las entradas estan validadas.
 
 ## Caracteristicas
 - Validación de todos los inputs
@@ -14,6 +14,6 @@ Programa que calcula, propina e indica cuanto debe pagar cada comensal, y todas 
 
 ## Instalación
 ''' bash
-git clone []
+git clone https://github.com/jorgecialm/porfolio.git
 cd calculadora-propinas
-
+'''
