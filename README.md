@@ -9,11 +9,16 @@ Con muchas ganas de seguir aprendiendo
 
 ## 💼 Proyectos Destacados
 
-### Proyecto 1
-- **Descripción**: [Breve descripción del proyecto]
+### Calculadora de Propinas
+- **Descripción**: Aplicación de consola que calcula automáticamente propinas y divide el total de la cuenta entre múltiples comensales. Implementa validación robusta de datos de entrada y manejo de errores.
 - **Tecnologías**: Python
-- **Demo**: [Enlace si está deployado]
-- **Código**: [Enlace al código específico si está en otro repo]
+- **Funcionalidades**: 
+  - Cálculo de propina por porcentaje
+  - División equitativa entre comensales
+  - Validación de datos numéricos
+  - Manejo de excepciones
+- **Código**: [Ver código](./calculadora_propina/)
+
 
 ### Proyecto 2
 - **Descripción**: [Descripción]
