@@ -1,7 +1,7 @@
 # Calculadora de propinas 
 
 ## Descripción
-Aplicación de consola para calcular la propina y cuanto corresponde pagar a cada uno
+Aplicación de consola para calcular la propina y cuanto corresponde pagar a cada uno de los comensales 
 ## Caracteristicas
 - Validación de todos los inputs
 - Manejo de errores con try-except
