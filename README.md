@@ -4,7 +4,8 @@
 
 ## 🚀 Sobre mí
 
-[Breve descripción profesional - 2-3 líneas sobre tu experiencia/enfoque]
+Desarrollador Python Junior en busca de primer empleo en programación.
+Con muchas ganas de seguir aprendiendo
 
 ## 💼 Proyectos Destacados
 
