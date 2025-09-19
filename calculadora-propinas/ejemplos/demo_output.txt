@@ -1,0 +1,9 @@
+****Calculadora de propinas****
+ingrese el valor de la  cuenta del restaurante : 23
+ingrese el porcentaje : 2
+¿Entre cuántas personas dividir la cuenta? 5
+
+El monto de la propina es de $ 0.46
+El total de la cuenta mas la propina es de 23.46
+El total que paga cada persona es de 4.69
+
