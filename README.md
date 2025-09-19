@@ -17,7 +17,7 @@ Con muchas ganas de seguir aprendiendo
   - División equitativa entre comensales
   - Validación de datos numéricos
   - Manejo de excepciones
-- **Código**: [Ver en carpeta calculadora_propina](./calculadora_propina/)
+- **Código**: [Ver código](./calculadora-propina/)
 
 ### Proyecto 2
 - **Descripción**: [Descripción]
