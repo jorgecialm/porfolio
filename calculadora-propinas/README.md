@@ -1,7 +1,7 @@
 # Calculadora de propinas 
 
 ## Descrpción
-Programa que calcula, propina e indica cuanto debe pagar cada comensal, y todas las entradas estan validadas.
+Aplicación de consola que aplica porcentaje de propina y divide la cantidad que debe pagar cada uno de los comensales
 
 ## Caracteristicas
 - Validación de todos los inputs
